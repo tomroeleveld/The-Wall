@@ -1,0 +1,1 @@
+Write-host "Update SP2010 installation"
